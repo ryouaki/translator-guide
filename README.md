@@ -1,10 +1,14 @@
 # translator-guide
 翻译人员参与指南
 
-## [印记中文](https://docschina.org)
+## [印记中文(docschina.org)](https://docschina.org)
 
 介绍：
+[印记中文(docschina.org)](https://docschina.org)是一个前端导航站点（目前只是前端），背后隐含着的是，我们致力于前端中文文档翻译的基本理念和实际行动。
 
+* 我该如何关注印记中文公众号？扫描 [docschina.org/group](https://docschina.org/group) 中的二维码，添加公众号
+* 我该如何加入印记中文文档翻译群（微信）？扫描 [docschina.org/group](https://docschina.org/group) 中的二维码进去，或添加微信好友李志華(@wuwangbufu002)进群
+* 我该如何加入印记中文文档翻译群（QQ）？docschina翻译1群 492361223 & docschina翻译2群 606946737
 
 
 ## 项目入口
