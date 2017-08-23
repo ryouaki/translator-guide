@@ -23,9 +23,7 @@
 * [webpack-china 中文仓库](https://github.com/webpack-china/webpack.js.org)
 * [webpack-china wiki](https://github.com/webpack-china/webpack.js.org/wiki)
 
-[webpack wiki](https://github.com/webpack-china/webpack.js.org/wiki)
-
-# React
+### React
 
 [React Official](https://github.com/docschina/react)
 
