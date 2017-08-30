@@ -42,7 +42,7 @@
 * React 中文文档目前由 余博伦([@discountry](https://github.com/discountry)) 在 [React docs in Chinese](https://github.com/discountry/react) 发起组织翻译，目前已经持续翻译跟进到 `v15.6.1` 版本的官方文档，文档已完整翻译，可能仍有少数错误需要修改。
 * 愿意帮忙校对翻译的同学可以根据 [纠错指引](https://github.com/discountry/react/blob/master/README.md) 直接提交pr修改。
 * 在 React@16 新版本发布之后，如果文档有较大的变动，可以按照 [React 中文文档翻译指南](https://github.com/discountry/react/tree/master/docs) 认领翻译新发布的内容。
-* React 官方也发布了初步的翻译贡献流程，积极的同学可以在 [crowdin](https://crowdin.com/project/react) 网站上参与贡献翻译。
+* React 官方也发布了初步的翻译贡献流程，我们会先行整合之前翻译好的内容，积极的同学也可以直接在 [crowdin](https://crowdin.com/project/react) 网站上参与贡献翻译。
 
 ### Preact
 * [praect 中文文档 - 网站链接](https://preactjs.com/) ，在网站底部选择语言
