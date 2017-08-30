@@ -19,6 +19,7 @@
   - [react](#react)
   - [vue](#vue)
   - [preact](#preact)
+  - [nodejs](#nodejs)
 
 * 工程类
   - [webpack](#webpack)
@@ -57,6 +58,11 @@
 * [vuefe 中文文档 - 网站链接](https://vuefe.cn/v2/guide/)
 * [vuefe 中文仓库](https://github.com/vuefe/vuejs.org)
 * [Vue wiki](https://github.com/vuefe/vuejs.org/wiki)
+
+### nodejs
+* [Node.js 中文文档 - 网站链接](http://nodejs.cn/) 
+* [Node.js 文档翻译仓库](https://github.com/nodejscn/node-api-cn)
+* [正在招募模块负责人，快来应征啦！](https://github.com/nodejscn/node-api-cn#加入我们)
 
 
 ## 翻译指引
