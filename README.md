@@ -16,9 +16,9 @@
 先选择你喜欢的翻译项目，我们目前提供了以下的选择。如果有其它你感兴趣的翻译，可以通过群组，或者 Github Issue 提出你的建议。
 
 * 框架类
-  - [react](#React)
-  - [vue](#Vue)
-  - [preact](#Preact)
+  - [react](#react)
+  - [vue](#vue)
+  - [preact](#preact)
 
 * 工程类
   - [webpack](#webpack)
