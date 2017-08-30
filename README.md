@@ -4,24 +4,38 @@
 ## [印记中文(docschina.org)](https://docschina.org)
 
 介绍：
-[印记中文(docschina.org)](https://docschina.org)是一个前端导航站点（目前只是前端），背后隐含着的是，我们致力于前端中文文档翻译的基本理念和实际行动。
+[印记中文(docschina.org)](https://docschina.org)是一个技术文档导航站点（暂时只有前端，未来可能拓展），背后隐含着的是，我们致力于互联网技术中文文档翻译的基本理念和实际行动。
 
 * 我该如何关注印记中文公众号？扫描 [docschina.org/group](https://docschina.org/group) 中的二维码，添加公众号
 * 我该如何加入印记中文文档翻译群（微信）？扫描 [docschina.org/group](https://docschina.org/group) 中的二维码进去，或添加微信好友李志華(@wuwangbufu002)进群
 * 我该如何加入印记中文文档翻译群（QQ）？docschina翻译1群 492361223 & docschina翻译2群 606946737
 
 
-## 项目入口
+## 项目总览
 
-先选择你喜欢的翻译项目，我们目前提供了 webpack、React、Vue、Node.js 文档的翻译。
+先选择你喜欢的翻译项目，我们目前提供了以下的选择。如果有其它你感兴趣的翻译，可以通过群组，或者 Github Issue 提出你的建议。
+
+* 框架类
+  - [react](#React)
+  - [vue](#Vue)
+  - [preact](#Preact)
+
+* 工程类
+  - [webpack](#webpack)
+  - [rollup](#rollup)
+
 
 ### webpack
 
 介绍：
-* webpack-china 是由 李成熙(@lcxfs1991) 于 2017.01 在 [webpack-china 中文仓库(webpack-china/webpack.js.org)](https://github.com/webpack-china/webpack.js.org)发起和组织的 webpack 2.x 中文文档翻译，由于 webpack 文档较多，官方改动较大，至今仍然处于翻译中。
+* webpack-china 是由 李成熙([@lcxfs1991](https://github.com/discountry)) 于 2017.01 在 [webpack-china 中文仓库(webpack-china/webpack.js.org)](https://github.com/webpack-china/webpack.js.org)发起和组织的 webpack 2.x 中文文档翻译，由于 webpack 文档较多，官方改动较大，至今仍然处于翻译中。
 * [webpack-china 中文文档 - 网站链接](https://doc.webpack-china.org)
 * [webpack-china 中文仓库](https://github.com/webpack-china/webpack.js.org)
 * [webpack-china wiki](https://github.com/webpack-china/webpack.js.org/wiki)
+
+### Rollup
+* [rollup 中文文档 - 网站链接](https://rollupjs.org/zh)
+* [rollup 文档翻译仓库](https://github.com/rollup-china)
 
 ### React
 
@@ -29,6 +43,10 @@
 * 愿意帮忙校对翻译的同学可以根据 [纠错指引](https://github.com/discountry/react/blob/master/README.md) 直接提交pr修改。
 * 在 React@16 新版本发布之后，如果文档有较大的变动，可以按照 [React 中文文档翻译指南](https://github.com/discountry/react/tree/master/docs) 认领翻译新发布的内容。
 * React 官方也发布了初步的翻译贡献流程，等正式确定后再通知大家。
+
+### Preact
+* [praect 中文文档 - 网站链接](https://preactjs.com/) ，在网站底部选择语言
+* [preact 文档翻译仓库](https://github.com/docschina/preact-www)
 
 ### Vue
 
