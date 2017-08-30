@@ -15,11 +15,13 @@
 
 先选择你喜欢的翻译项目，我们目前提供了以下的选择。如果有其它你感兴趣的翻译，可以通过群组，或者 Github Issue 提出你的建议。
 
-* 框架类
+* 语言类
+  - [nodejs](#nodejs)
+
+* 前端框架类
   - [react](#react)
   - [vue](#vue)
   - [preact](#preact)
-  - [nodejs](#nodejs)
 
 * 工程类
   - [webpack](#webpack)
