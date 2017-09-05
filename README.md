@@ -68,4 +68,7 @@
 
 
 ## 翻译指引
+
+[gitlab 或 github 下 fork 后如何同步源的新更新内容？](https://www.zhihu.com/question/28676261/answer/44606041)
+
 翻译指引目前还以 [webpack-china/webpack.js.org](https://github.com/webpack-china/webpack.js.org/) 的翻译方式为基础，大家优先参考 [webpack 2 翻译任务认领说明 - 入口目录](https://github.com/webpack-china/webpack.js.org/issues/17) 来认领文档翻译。后续会将指引编辑成文，放在本仓库当中。
