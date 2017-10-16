@@ -7,7 +7,7 @@
 [印记中文(docschina.org)](https://docschina.org)是一个技术文档导航站点（暂时只有前端，未来可能拓展），背后隐含着的是，我们致力于互联网技术中文文档翻译的基本理念和实际行动。
 
 * 我该如何关注印记中文公众号？扫描 [docschina.org/group](https://docschina.org/group) 中的二维码，添加公众号
-* 我该如何加入印记中文文档翻译群（微信）？扫描 [docschina.org/group](https://docschina.org/group) 中的二维码进去，或添加微信好友李志華(@wuwangbufu002)进群
+* 我该如何加入印记中文文档翻译群（微信）？扫描 [docschina.org/group](https://docschina.org/group) 中的二维码进去，或添加微信好友李志華(@275091674)进群
 * 我该如何加入印记中文文档翻译群（QQ）？docschina翻译1群 492361223 & docschina翻译2群 606946737
 
 
