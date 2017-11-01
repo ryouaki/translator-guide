@@ -26,6 +26,7 @@
 * 工程类
   - [webpack](#webpack)
   - [rollup](#rollup)
+  - [babel](#babel)
 
 
 ### webpack
@@ -39,6 +40,10 @@
 ### Rollup
 * [rollup 中文文档 - 网站链接](https://rollupjs.org/zh)
 * [rollup 文档翻译仓库](https://github.com/rollup-china)
+
+### babel
+* [babel 中文文档 - 网站链接（翻译临时使用，可能会使用其他域名）](https://babel.docschina.org/)
+* [babel 文档翻译仓库](https://github.com/docschina/babeljs.io)
 
 ### React
 
