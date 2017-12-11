@@ -27,12 +27,13 @@
   - [webpack](#webpack)
   - [rollup](#rollup)
   - [babel](#babel)
+  - [parcel](#parcel)
 
 
 ### webpack
 
 介绍：
-* webpack-china 是由 李成熙([@lcxfs1991](https://github.com/discountry)) 于 2017.01 在 [webpack-china 中文仓库(webpack-china/webpack.js.org)](https://github.com/webpack-china/webpack.js.org)发起和组织的 webpack 2.x 中文文档翻译，由于 webpack 文档较多，官方改动较大，至今仍然处于翻译中。
+* webpack-china 是由 李成熙([@lcxfs1991](https://github.com/lcxfs1991)) 于 2017.01 在 [webpack-china 中文仓库(webpack-china/webpack.js.org)](https://github.com/webpack-china/webpack.js.org)发起和组织的 webpack 2.x 中文文档翻译，由于 webpack 文档较多，官方改动较大，至今仍然处于翻译中。
 * [webpack-china 中文文档 - 网站链接](https://doc.webpack-china.org)
 * [webpack-china 中文仓库](https://github.com/webpack-china/webpack.js.org)
 * [webpack-china wiki](https://github.com/webpack-china/webpack.js.org/wiki)
@@ -42,8 +43,13 @@
 * [rollup 文档翻译仓库](https://github.com/rollup-china)
 
 ### babel
-* [babel 中文文档 - 网站链接（翻译临时使用，可能会使用其他域名）](https://babel.docschina.org/)
+* [babel 中文文档 - 网站链接](https://babeljs.cn/)
 * [babel 文档翻译仓库](https://github.com/docschina/babeljs.io)
+
+### parcel
+* [parcel 中文文档 - 网站链接](https://www.parceljs.io)
+* [parcel 中文文档 - 备用链接](https://parceljs.docschina.org/)
+* [parcel 文档翻译仓库](https://github.com/docschina/parceljs.io)
 
 ### React
 
