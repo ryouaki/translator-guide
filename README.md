@@ -83,3 +83,9 @@
 [gitlab 或 github 下 fork 后如何同步源的新更新内容？](https://www.zhihu.com/question/28676261/answer/44606041)
 
 翻译指引目前还以 [webpack-china/webpack.js.org](https://github.com/webpack-china/webpack.js.org/) 的翻译方式为基础，大家优先参考 [webpack 2 翻译任务认领说明 - 入口目录](https://github.com/webpack-china/webpack.js.org/issues/17) 来认领文档翻译。后续会将指引编辑成文，放在本仓库当中。
+
+## 授权方式
+
+[印记中文](https://docschina.org)翻译的所有文档，遵循“保留署名—非商用”创意共享 4.0 许可证（CC BY-NC 4.0）授权方式，你不用知会我们就可以转载，但必须保持署名（特别是：链接到 https://docschina.org 或印记中文相应的网站，并且不得去掉本页入口链接，也不得修改本页内容），并且不得用于商业目的。如果需要进行任何商业推广，请接洽 印记中文负责人李成熙(@lcxfs1991)（QQxxx && 微信xxx），我们将给出积极的回应。
+
+本文档首发于[印记中文(docschina.org)](https://docschina.org)。如果你要进行转载，请自行同步。
