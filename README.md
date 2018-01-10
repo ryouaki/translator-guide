@@ -17,7 +17,7 @@
 
 * 语言类
   - [nodejs](#nodejs)
-  - [ECMAScript](#ecma)
+  - [ECMAScript](#ecmascript)
 
 * 前端框架类
   - [react](#react)
