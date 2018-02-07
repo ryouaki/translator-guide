@@ -88,6 +88,24 @@
 
 翻译指引目前还以 [webpack-china/webpack.js.org](https://github.com/webpack-china/webpack.js.org/) 的翻译方式为基础，大家优先参考 [webpack 2 翻译任务认领说明 - 入口目录](https://github.com/webpack-china/webpack.js.org/issues/17) 来认领文档翻译。后续会将指引编辑成文，放在本仓库当中。
 
+https://github.com/mzlogin/chinese-copywriting-guidelines
+中文文案排版指北
+
+通过 https://github.com/vinta/pangu.js 这个工具，可以很方便的自动添加空格，创建出符合「中文文案排版指北」的排版规则。
+
+```
+// 这是一段通过 Node.js 调用 pangu.js 来自动添加空格的代码，input.md 是源文件，output.md 是输出文件。
+const fs = require('fs')
+
+const pangu = require('pangu')
+const data = pangu.spacingFileSync('./input.md')
+
+fs.writeFile('output.md', data, (err) => {
+  if (err) throw err;
+  console.log('The file has been saved!');
+})
+```
+
 ## 授权方式
 
 [印记中文](https://docschina.org)翻译的所有文档，遵循[“保留署名—非商用”创意共享 4.0 许可证（CC BY-NC 4.0）](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)授权方式，你不用知会我们就可以转载，但必须保持署名（特别是：链接到 https://docschina.org 或印记中文相应的网站，并且不得去掉本页入口链接，也不得修改本页内容），并且不得用于商业目的。如果需要进行任何商业推广，请接洽 印记中文负责人李成熙(@lcxfs1991)（QQ: 249806703 && 邮箱：lcxfs1991@gmail.com），我们将给出积极的回应。
