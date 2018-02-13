@@ -103,7 +103,8 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/QC-L.png?size=90)<br>李其昌 | [@QC-L](https://github.com/QC-L) | - | - | -
+![](https://github.com/QC-L.png?size=90)<br>李其昌 | [@QC-L](https://github.com/QC-L) | github@liqichang.com | 472659155 | -
+![](https://github.com/hijiangtao.png?size=90)<br>Joe Jiang | [@hijiangtao](https://github.com/hijiangtao) | hijiangtao@gmail.com | - | -
 
 
 ### parcel
@@ -114,7 +115,7 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/QC-L.png?size=90)<br>李其昌 | [@QC-L](https://github.com/QC-L) | - | - | -
+![](https://github.com/QC-L.png?size=90)<br>李其昌 | [@QC-L](https://github.com/QC-L) | github@liqichang.com | 472659155 | -
 
 
 ### Rollup
