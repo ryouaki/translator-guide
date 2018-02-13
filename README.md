@@ -28,16 +28,10 @@
 
 ## 翻译指引
 
-[gitlab 或 github 下 fork 后如何同步源的新更新内容？](https://www.zhihu.com/question/28676261/answer/44606041)
-
-翻译指引目前还以 [webpack-china/webpack.js.org](https://github.com/webpack-china/webpack.js.org/) 的翻译方式为基础，大家优先参考 [webpack 2 翻译任务认领说明 - 入口目录](https://github.com/webpack-china/webpack.js.org/issues/17) 来认领文档翻译。后续会将指引编辑成文，放在本仓库当中。
-
-## 分支管理
-
 - 合并分支：http://mp.weixin.qq.com/s/_ricIlWhDbRZW-CmH0Ik5w
-- 翻译流程：https://github.com/webpack-china/webpack.js.org
+- 翻译流程：目前还是以 [webpack-china/webpack.js.org](https://github.com/webpack-china/webpack.js.org/) 的翻译方式为基础，大家优先参考 [webpack 2 翻译任务认领说明 - 入口目录](https://github.com/webpack-china/webpack.js.org/issues/17) 学习如何认领文档翻译。后续会将指引编辑成文，放在本仓库当中。
+- 与上游仓库同步：[gitlab 或 github 下 fork 后如何同步源的新更新内容？](https://www.zhihu.com/question/28676261/answer/44606041)
 - git 命令示意图：![git 命令示意图](https://camo.githubusercontent.com/6f9cc78d28f03cf60b148d368cf89160c807c08c/687474703a2f2f7030773575717736622e626b742e636c6f7564646e2e636f6d2f696d6167652f706e672f7765627061636b2545372542462542422545382541462539312545362542352538312545372541382538422545352539422542452e706e67)
-
 - 中文文案排版指北：https://github.com/mzlogin/chinese-copywriting-guidelines
 
 通过 https://github.com/vinta/pangu.js 这个工具，可以很方便的自动添加空格，创建出符合「中文文案排版指北」的排版规则。
@@ -54,6 +48,7 @@ fs.writeFile('output.md', data, (err) => {
   console.log('The file has been saved!');
 })
 ```
+
 
 ## 项目总览
 
