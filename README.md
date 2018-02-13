@@ -1,86 +1,30 @@
-# translator-guide
-翻译人员参与指南
+# 翻译人员参与指南
 
 ## [印记中文(docschina.org)](https://docschina.org)
 
 介绍：
-[印记中文(docschina.org)](https://docschina.org)是一个技术文档导航站点（暂时只有前端，未来可能拓展），背后隐含着的是，我们致力于互联网技术中文文档翻译的基本理念和实际行动。
-
-* 我该如何关注印记中文公众号？扫描 [docschina.org/group](https://docschina.org/group) 中的二维码，添加公众号
-* 我该如何加入印记中文文档翻译群（微信）？扫描 [docschina.org/group](https://docschina.org/group) 中的二维码进去，或添加微信好友李志華(@275091674)进群
-* 我该如何加入印记中文文档翻译群（QQ）？docschina翻译1群 492361223 & docschina翻译2群 606946737
+[印记中文(docschina.org)](https://docschina.org)是一个中文文档翻译生态圈，背后隐含着的是，我们致力于互联网技术中文文档翻译的基本理念和实际行动。
 
 
-## 项目总览
-
-先选择你喜欢的翻译项目，我们目前提供了以下的选择。如果有其它你感兴趣的翻译，可以通过群组，或者 Github Issue 提出你的建议。
-
-* 语言类
-  - [nodejs](#nodejs)
-  - [ECMAScript](#ecmascript)
-
-* 前端框架类
-  - [react](#react)
-  - [vue](#vue)
-  - [preact](#preact)
-
-* 工程类
-  - [webpack](#webpack)
-  - [rollup](#rollup)
-  - [babel](#babel)
-  - [parcel](#parcel)
+## FAQ
+* 关注我们
+  - Q: 我该如何关注印记中文公众号？
+  - A: 扫描 [加入群聊](https://docschina.org/home/about) 中的二维码，或者直接添加公众号（应急中文翻译）。
+  - Q: 我该如何加入印记中文文档翻译群（微信）？
+  - A: 进去，或添加微信好友 李志华(@275091674) 进群。
+  - Q: 我该如何加入印记中文文档翻译群（QQ）？
+  - A: 扫描 [加入群聊](https://docschina.org/home/about) 中的二维码，或直接通过 QQ 群号（翻译 1 群 492361223 / 翻译 2 群 606946737）进入。
+* 开始翻译
+  - Q: 我想要翻译已有项目
+  - A: 进入下面已有项目的仓库，寻找对应的翻译负责人，按照翻译流程就可以加入。
+  - Q: 我想重新开始一个新的项目
+  - A: 我们会评估项目，如果可行的话，我们会提供翻译流程、分支管理、打包部署等方面的支持。
 
 
-### webpack
-
-介绍：
-* webpack-china 是由 李成熙([@lcxfs1991](https://github.com/lcxfs1991)) 于 2017.01 在 [webpack-china 中文仓库(webpack-china/webpack.js.org)](https://github.com/webpack-china/webpack.js.org)发起和组织的 webpack 2.x 中文文档翻译，由于 webpack 文档较多，官方改动较大，至今仍然处于翻译中。
-* [webpack-china 中文文档 - 网站链接](https://doc.webpack-china.org)
-* [webpack-china 中文仓库](https://github.com/webpack-china/webpack.js.org)
-* [webpack-china wiki](https://github.com/webpack-china/webpack.js.org/wiki)
-
-### Rollup
-* [rollup 中文文档 - 网站链接](https://rollupjs.org/zh)
-* [rollup 文档翻译仓库](https://github.com/rollup-china)
-
-### babel
-* [babel 中文文档 - 网站链接](https://babeljs.cn/)
-* [babel 文档翻译仓库](https://github.com/docschina/babeljs.io)
-
-### parcel
-* [parcel 中文文档 - 网站链接](https://www.parceljs.io)
-* [parcel 中文文档 - 备用链接](https://parceljs.docschina.org/)
-* [parcel 文档翻译仓库](https://github.com/docschina/parceljs.io)
-
-### React
-
-* React 中文文档目前由 余博伦([@discountry](https://github.com/discountry)) 在 [React docs in Chinese](https://github.com/discountry/react) 发起组织翻译，目前已经持续翻译跟进到 `v15.6.1` 版本的官方文档，文档已完整翻译，可能仍有少数错误需要修改。
-* 愿意帮忙校对翻译的同学可以根据 [纠错指引](https://github.com/discountry/react/blob/master/README.md) 直接提交pr修改。
-* 在 React@16 新版本发布之后，如果文档有较大的变动，可以按照 [React 中文文档翻译指南](https://github.com/discountry/react/tree/master/docs) 认领翻译新发布的内容。
-* React 官方也发布了初步的翻译贡献流程，我们会先行整合之前翻译好的内容，积极的同学也可以直接在 [crowdin](https://crowdin.com/project/react) 网站上参与贡献翻译。
-
-### Preact
-* [praect 中文文档 - 网站链接](https://preactjs.com/) ，在网站底部选择语言
-* [preact 文档翻译仓库](https://github.com/docschina/preact-www)
-
-### Vue
-
-介绍：
-* vuefe 是由 丁一鸣(@dingyiming) 于 2016.08 在 [vuefe 中文仓库(vuefe/vuejs.org)](https://github.com/vuefe/vuejs.org)发起和组织的 Vue.js 2.x 中文文档翻译，于 2016.10 结束翻译后，合并至[官方仓库(vuejs/cn.vuejs.org)](https://github.com/vuejs/cn.vuejs.org)。
-* 其后，两个仓库并行存在，中文仓库由 Vue 中文社区维护，而 vuefe 仓库也在一直维护。
-* vuefe 目前重点，旨在提供优质的审校，具体我们的工作成果，可以查看最近几个月的 [pull-request](https://github.com/vuefe/vuejs.org/pulls)。
-* [vuefe 中文文档 - 网站链接](https://vuefe.cn/v2/guide/)
-* [vuefe 中文仓库](https://github.com/vuefe/vuejs.org)
-* [Vue wiki](https://github.com/vuefe/vuejs.org/wiki)
-
-### nodejs
-* [Node.js 中文文档 - 网站链接](http://nodejs.cn/) 
-* [Node.js 文档翻译仓库](https://github.com/nodejscn/node-api-cn)
-* [正在招募模块负责人，快来应征啦！](https://github.com/nodejscn/node-api-cn#加入我们)
-
-### ECMAScript
-* [ECMAScript 中文文档 - 网站链接](https://ecma262.docschina.org/) 
-* [ECMAScript 文档翻译仓库](https://github.com/docschina/ecma262)
+### 合作
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | lcxfs1991@gmail.com | 249806703 | -
 
 ## 翻译指引
 
@@ -110,6 +54,117 @@ fs.writeFile('output.md', data, (err) => {
   console.log('The file has been saved!');
 })
 ```
+
+## 项目总览
+
+先选择你喜欢的翻译项目，我们目前提供了以下的选择。如果有其它你感兴趣的翻译，可以通过群组，或者 Github Issue 提出你的建议。
+
+* 语言类
+  - [Node.js](#nodejs)
+  - [ECMAScript](#ecmascript)
+
+* 前端框架类
+  - [React](#react)
+  - [Vue](#vue)
+  - [Preact](#preact)
+
+* 工程类
+  - [webpack](#webpack)
+  - [Rollup](#rollup)
+  - [Babel](#babel)
+  - [Parcel](#parcel)
+
+
+### webpack
+#### 项目情况
+* webpack 2 中文文档翻译，由 李成熙 于 2017.01 发起和组织
+* [webpack-china 中文文档](https://doc.webpack-china.org)
+* [webpack-china 中文仓库](https://github.com/webpack-china/webpack.js.org)
+
+#### 项目维护
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/dear-lizhihua.png?size=90) 李志华 | [@dear-lizhihua](https://github.com/dear-lizhihua) | 275091674@qq.com | 275091674 | 275091674
+
+### React
+* React 中文文档目前由 余博伦([@discountry](https://github.com/discountry)) 在 [React docs in Chinese](https://github.com/discountry/react) 发起组织翻译，目前已经持续翻译跟进到 `v15.6.1` 版本的官方文档，文档已完整翻译，可能仍有少数错误需要修改。
+* 愿意帮忙校对翻译的同学可以根据 [纠错指引](https://github.com/discountry/react/blob/master/README.md) 直接提交pr修改。
+* 在 React@16 新版本发布之后，如果文档有较大的变动，可以按照 [React 中文文档翻译指南](https://github.com/discountry/react/tree/master/docs) 认领翻译新发布的内容。
+* React 官方也发布了初步的翻译贡献流程，我们会先行整合之前翻译好的内容，积极的同学也可以直接在 [crowdin](https://crowdin.com/project/react) 网站上参与贡献翻译。
+
+#### 项目维护
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/discountry.png?size=90) 余博伦 | [@discountry](https://github.com/discountry) | - | - | -
+
+### babel
+* [babel 中文文档](https://babeljs.cn/)
+* [babel 文档翻译仓库](https://github.com/docschina/babeljs.io)
+
+#### 项目维护
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/QC-L.png?size=90) 李其昌 | [@QC-L](https://github.com/QC-L) | - | - | -
+
+### parcel
+* [parcel 中文文档](https://www.parceljs.io)
+* [parcel 中文文档 - 备用链接](https://parceljs.docschina.org/)
+* [parcel 文档翻译仓库](https://github.com/docschina/parceljs.io)
+
+#### 项目维护
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/QC-L.png?size=90) 李其昌 | [@QC-L](https://github.com/QC-L) | - | - | -
+
+### Vue
+#### 项目情况
+* vuefe 是由 丁一鸣(@dingyiming) 于 2016.08 在 [vuefe 中文仓库(vuefe/vuejs.org)](https://github.com/vuefe/vuejs.org)发起和组织的 Vue.js 2.x 中文文档翻译，于 2016.10 结束翻译后，合并至[官方仓库(vuejs/cn.vuejs.org)](https://github.com/vuejs/cn.vuejs.org)。
+* 其后，两个仓库并行存在，中文仓库由 Vue 中文社区维护，而 vuefe 仓库也在一直维护。
+* vuefe 目前重点，旨在提供优质的审校，具体我们的工作成果，可以查看最近几个月的 [pull-request](https://github.com/vuefe/vuejs.org/pulls)。
+* [vuefe 中文文档](https://vuefe.cn/v2/guide/)
+* [vuefe 中文仓库](https://github.com/docschina/vuejs.org)
+
+#### 项目维护
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/dear-lizhihua.png?size=90) 李志华 | [@dear-lizhihua](https://github.com/dear-lizhihua) | 275091674@qq.com | 275091674 | 275091674
+
+### Node.js
+* [Node.js 中文文档 - 网站链接](http://nodejs.cn/)
+* [Node.js 文档翻译仓库](https://github.com/nodejscn/node-api-cn)
+* [正在招募模块负责人，快来应征啦！](https://github.com/nodejscn/node-api-cn#加入我们)
+
+#### 项目维护
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/h7lin.png?size=90) h7lin | [@h7lin](https://github.com/h7lin) | - | - | -
+
+### ECMAScript
+* [ECMAScript 中文文档 - 网站链接](https://ecma262.docschina.org/)
+* [ECMAScript 文档翻译仓库](https://github.com/docschina/ecma262)
+
+#### 项目维护
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/realywithoutname.png?size=90) realywithoutname | [@realywithoutname](https://github.com/realywithoutname) | - | - | -
+
+### Rollup
+* [rollup 中文文档](https://rollupjs.cn/)
+* [rollup 文档翻译仓库](https://github.com/docschina/rollupjs.org)
+
+#### 项目维护
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
+
+### Preact
+* [praect 中文文档 - 网站链接](https://preactjs.com/) ，在网站底部选择语言
+* [preact 文档翻译仓库](https://github.com/docschina/preact-www)
+
+#### 项目维护
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
 
 ## 授权方式
 
