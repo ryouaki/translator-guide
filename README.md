@@ -84,9 +84,9 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/dear-lizhihua.png?size=90) 李志华 | [@dear-lizhihua](https://github.com/dear-lizhihua) | 275091674@qq.com | 275091674 | 275091674
-![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
-![](https://github.com/Aladdin-ADD.png?size=90) 薛定谔的猫 | [@Aladdin-ADD](https://github.com/Aladdin-ADD) | - | - | -
+![](https://github.com/dear-lizhihua.png?size=90)<br>李志华 | [@dear-lizhihua](https://github.com/dear-lizhihua) | 275091674@qq.com | 275091674 | 275091674
+![](https://github.com/lcxfs1991.png?size=90)<br>李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
+![](https://github.com/Aladdin-ADD.png?size=90)<br>薛定谔的猫 | [@Aladdin-ADD](https://github.com/Aladdin-ADD) | - | - | -
 
 
 ### React
@@ -98,7 +98,7 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/discountry.png?size=90) 余博伦 | [@discountry](https://github.com/discountry) | - | - | -
+![](https://github.com/discountry.png?size=90)<br>余博伦 | [@discountry](https://github.com/discountry) | - | - | -
 
 
 ### babel
@@ -108,7 +108,7 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/QC-L.png?size=90) 李其昌 | [@QC-L](https://github.com/QC-L) | - | - | -
+![](https://github.com/QC-L.png?size=90)<br>李其昌 | [@QC-L](https://github.com/QC-L) | - | - | -
 
 
 ### parcel
@@ -119,7 +119,7 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/QC-L.png?size=90) 李其昌 | [@QC-L](https://github.com/QC-L) | - | - | -
+![](https://github.com/QC-L.png?size=90)<br>李其昌 | [@QC-L](https://github.com/QC-L) | - | - | -
 
 
 ### Rollup
@@ -129,7 +129,7 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
+![](https://github.com/lcxfs1991.png?size=90)<br>李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
 
 
 ### Vue
@@ -143,7 +143,7 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/dear-lizhihua.png?size=90) 李志华 | [@dear-lizhihua](https://github.com/dear-lizhihua) | 275091674@qq.com | 275091674 | 275091674
+![](https://github.com/dear-lizhihua.png?size=90)<br>李志华 | [@dear-lizhihua](https://github.com/dear-lizhihua) | 275091674@qq.com | 275091674 | 275091674
 
 
 ### Node.js
@@ -154,7 +154,7 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/h7lin.png?size=90) h7lin | [@h7lin](https://github.com/h7lin) | - | - | -
+![](https://github.com/h7lin.png?size=90)<br>h7lin | [@h7lin](https://github.com/h7lin) | - | - | -
 
 
 ### RxJS
@@ -163,12 +163,12 @@ fs.writeFile('output.md', data, (err) => {
 * [RxJS 5 基本原理](https://rxjs-cn.github.io/rxjs5-ultimate-cn/)
 * [RxJS 5 基本原理 - 翻译仓库](https://github.com/RxJS-CN/rxjs5-ultimate-cn)
 * [学习 RxJS](https://rxjs-cn.github.io/learn-rxjs-operators/)
-* [学习 RxJS - 翻译仓库](hhttps://github.com/RxJS-CN/learn-rxjs-operators)
+* [学习 RxJS - 翻译仓库](https://github.com/RxJS-CN/learn-rxjs-operators)
 
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/SangKa.png?size=90) SangKa | [@SangKa](https://github.com/SangKa) | - | - | -
+![](https://github.com/SangKa.png?size=90)<br>SangKa | [@SangKa](https://github.com/SangKa) | - | - | -
 
 
 ### ECMAScript
@@ -178,7 +178,7 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/realywithoutname.png?size=90) realywithoutname | [@realywithoutname](https://github.com/realywithoutname) | - | - | -
+![](https://github.com/realywithoutname.png?size=90)<br>realywithoutname | [@realywithoutname](https://github.com/realywithoutname) | - | - | -
 
 
 ### Koa
@@ -189,7 +189,7 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/demopark.png?size=90) demopark | [@demopark](https://github.com/demopark) | - | - | -
+![](https://github.com/demopark.png?size=90)<br>demopark | [@demopark](https://github.com/demopark) | - | - | -
 
 
 ### Preact
@@ -199,7 +199,7 @@ fs.writeFile('output.md', data, (err) => {
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
+![](https://github.com/lcxfs1991.png?size=90)<br>李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
 
 
 ## 特别感谢
