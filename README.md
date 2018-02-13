@@ -86,6 +86,7 @@ fs.writeFile('output.md', data, (err) => {
 --- | --- | --- | --- | ---
 ![](https://github.com/dear-lizhihua.png?size=90) 李志华 | [@dear-lizhihua](https://github.com/dear-lizhihua) | 275091674@qq.com | 275091674 | 275091674
 
+
 ### React
 * React 中文文档目前由 余博伦([@discountry](https://github.com/discountry)) 在 [React docs in Chinese](https://github.com/discountry/react) 发起组织翻译，目前已经持续翻译跟进到 `v15.6.1` 版本的官方文档，文档已完整翻译，可能仍有少数错误需要修改。
 * 愿意帮忙校对翻译的同学可以根据 [纠错指引](https://github.com/discountry/react/blob/master/README.md) 直接提交pr修改。
@@ -97,6 +98,7 @@ fs.writeFile('output.md', data, (err) => {
 --- | --- | --- | --- | ---
 ![](https://github.com/discountry.png?size=90) 余博伦 | [@discountry](https://github.com/discountry) | - | - | -
 
+
 ### babel
 * [babel 中文文档](https://babeljs.cn/)
 * [babel 文档翻译仓库](https://github.com/docschina/babeljs.io)
@@ -105,6 +107,7 @@ fs.writeFile('output.md', data, (err) => {
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
 ![](https://github.com/QC-L.png?size=90) 李其昌 | [@QC-L](https://github.com/QC-L) | - | - | -
+
 
 ### parcel
 * [parcel 中文文档](https://www.parceljs.io)
@@ -115,6 +118,17 @@ fs.writeFile('output.md', data, (err) => {
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
 ![](https://github.com/QC-L.png?size=90) 李其昌 | [@QC-L](https://github.com/QC-L) | - | - | -
+
+
+### Rollup
+* [rollup 中文文档](https://rollupjs.cn/)
+* [rollup 文档翻译仓库](https://github.com/docschina/rollupjs.org)
+
+#### 项目维护
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
+
 
 ### Vue
 #### 项目情况
@@ -129,8 +143,9 @@ fs.writeFile('output.md', data, (err) => {
 --- | --- | --- | --- | ---
 ![](https://github.com/dear-lizhihua.png?size=90) 李志华 | [@dear-lizhihua](https://github.com/dear-lizhihua) | 275091674@qq.com | 275091674 | 275091674
 
+
 ### Node.js
-* [Node.js 中文文档 - 网站链接](http://nodejs.cn/)
+* [Node.js 中文文档](http://nodejs.cn/)
 * [Node.js 文档翻译仓库](https://github.com/nodejscn/node-api-cn)
 * [正在招募模块负责人，快来应征啦！](https://github.com/nodejscn/node-api-cn#加入我们)
 
@@ -139,8 +154,9 @@ fs.writeFile('output.md', data, (err) => {
 --- | --- | --- | --- | ---
 ![](https://github.com/h7lin.png?size=90) h7lin | [@h7lin](https://github.com/h7lin) | - | - | -
 
+
 ### ECMAScript
-* [ECMAScript 中文文档 - 网站链接](https://ecma262.docschina.org/)
+* [ECMAScript 中文文档](https://ecma262.docschina.org/)
 * [ECMAScript 文档翻译仓库](https://github.com/docschina/ecma262)
 
 #### 项目维护
@@ -148,17 +164,20 @@ fs.writeFile('output.md', data, (err) => {
 --- | --- | --- | --- | ---
 ![](https://github.com/realywithoutname.png?size=90) realywithoutname | [@realywithoutname](https://github.com/realywithoutname) | - | - | -
 
-### Rollup
-* [rollup 中文文档](https://rollupjs.cn/)
-* [rollup 文档翻译仓库](https://github.com/docschina/rollupjs.org)
+
+### Koa
+* [Koa 中文文档](https://koajs.cn/)
+* [Koa 中文文档 - 备用链接](https://koajs.docschina.org/)
+* [Koa 文档翻译仓库](https://github.com/demopark/koa-docs-Zh-CN)
 
 #### 项目维护
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
+![](https://github.com/demopark.png?size=90) demopark | [@demopark](https://github.com/demopark) | - | - | -
+
 
 ### Preact
-* [praect 中文文档 - 网站链接](https://preactjs.com/) ，在网站底部选择语言
+* [praect 中文文档](https://preactjs.com/) ，在网站底部选择语言
 * [preact 文档翻译仓库](https://github.com/docschina/preact-www)
 
 #### 项目维护
@@ -166,8 +185,7 @@ fs.writeFile('output.md', data, (err) => {
 --- | --- | --- | --- | ---
 ![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
 
+
 ## 授权方式
 
 [印记中文](https://docschina.org)翻译的所有文档，遵循[“保留署名—非商用”创意共享 4.0 许可证（CC BY-NC 4.0）](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)授权方式，你不用知会我们就可以转载，但必须保持署名（特别是：链接到 https://docschina.org 或印记中文相应的网站，并且不得去掉本页入口链接，也不得修改本页内容），并且不得用于商业目的。如果需要进行任何商业推广，请接洽 印记中文负责人李成熙(@lcxfs1991)（QQ: 249806703 && 邮箱：lcxfs1991@gmail.com），我们将给出积极的回应。
-
-本文档首发于[印记中文(docschina.org)](https://docschina.org)。如果你要进行转载，请自行同步。
