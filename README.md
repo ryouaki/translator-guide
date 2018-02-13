@@ -139,6 +139,7 @@ fs.writeFile('output.md', data, (err) => {
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
 ![](https://github.com/dear-lizhihua.png?size=90)<br>李志华 | [@dear-lizhihua](https://github.com/dear-lizhihua) | 275091674@qq.com | 275091674 | 275091674
+![](https://github.com/dingyiming.png?size=90)<br>丁一鸣 | [@https://github.com/dingyiming](https://github.com/https://github.com/dingyiming) | - | - | -
 
 
 ### Node.js
