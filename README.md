@@ -85,6 +85,8 @@ fs.writeFile('output.md', data, (err) => {
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
 ![](https://github.com/dear-lizhihua.png?size=90) 李志华 | [@dear-lizhihua](https://github.com/dear-lizhihua) | 275091674@qq.com | 275091674 | 275091674
+![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
+![](https://github.com/Aladdin-ADD.png?size=90) 薛定谔的猫 | [@Aladdin-ADD](https://github.com/Aladdin-ADD) | - | - | -
 
 
 ### React
@@ -155,6 +157,20 @@ fs.writeFile('output.md', data, (err) => {
 ![](https://github.com/h7lin.png?size=90) h7lin | [@h7lin](https://github.com/h7lin) | - | - | -
 
 
+### RxJS
+* [RxJS 5 中文文档](http://cn.rx.js.org/)
+* [RxJS 5 中文文档 - 翻译仓库](https://github.com/RxJS-CN/RxJS-Docs-CN)
+* [RxJS 5 基本原理](https://rxjs-cn.github.io/rxjs5-ultimate-cn/)
+* [RxJS 5 基本原理 - 翻译仓库](https://github.com/RxJS-CN/rxjs5-ultimate-cn)
+* [学习 RxJS](https://rxjs-cn.github.io/learn-rxjs-operators/)
+* [学习 RxJS - 翻译仓库](hhttps://github.com/RxJS-CN/learn-rxjs-operators)
+
+#### 项目维护
+负责人 | GitHub | mail | QQ | weixin
+--- | --- | --- | --- | ---
+![](https://github.com/SangKa.png?size=90) SangKa | [@SangKa](https://github.com/SangKa) | - | - | -
+
+
 ### ECMAScript
 * [ECMAScript 中文文档](https://ecma262.docschina.org/)
 * [ECMAScript 文档翻译仓库](https://github.com/docschina/ecma262)
@@ -184,6 +200,11 @@ fs.writeFile('output.md', data, (err) => {
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
 ![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | - | - | -
+
+
+## 特别感谢
+
+在此非常感谢 [腾讯云](https://cloud.tencent.com/) 和 [AlloyTeam](http://alloyteam.com/) 在背后的支持和贡献
 
 
 ## 授权方式
