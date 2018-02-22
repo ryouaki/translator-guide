@@ -19,12 +19,14 @@
   - A: 进入下面已有项目的仓库，寻找对应的翻译负责人，按照翻译流程就可以加入。
   - Q: 我想重新开始一个新的项目
   - A: 我们会评估项目，如果可行的话，我们会提供翻译流程、分支管理、打包部署等方面的支持。
+  - Q: 我已经有翻译项目，如何加入印记中文
+  - A: 查看 [印记中文推出文档 CDN + COS 部署方案](http://www.alloyteam.com/2017/08/13078/)，具体部署细节请联系 @lcxfs1991。
 
 
 ### 合作
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
-![](https://github.com/lcxfs1991.png?size=90) 李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | lcxfs1991@gmail.com | 249806703 | -
+![](https://github.com/lcxfs1991.png?size=90)<br>李成熙 | [@lcxfs1991](https://github.com/lcxfs1991) | lcxfs1991@gmail.com | 249806703 | -
 
 ## 翻译指引
 
@@ -140,7 +142,7 @@ fs.writeFile('output.md', data, (err) => {
 负责人 | GitHub | mail | QQ | weixin
 --- | --- | --- | --- | ---
 ![](https://github.com/dear-lizhihua.png?size=90)<br>李志华 | [@dear-lizhihua](https://github.com/dear-lizhihua) | 275091674@qq.com | 275091674 | 275091674
-![](https://github.com/dingyiming.png?size=90)<br>丁一鸣 | [@https://github.com/dingyiming](https://github.com/https://github.com/dingyiming) | - | - | -
+![](https://github.com/dingyiming.png?size=90)<br>丁一鸣 | [@dingyiming](https://github.com/https://github.com/dingyiming) | - | - | -
 
 
 ### Node.js
